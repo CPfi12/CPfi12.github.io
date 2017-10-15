@@ -80,6 +80,7 @@ li{
 }
 ul{
 	list-style-type: none;
+	padding-left: 0px;
 }
 
 .codelink{
@@ -104,7 +105,7 @@ ul{
 	font-size: 3.5vmin;
 	color:slategray;
 	text-align: center;
-	padding-left:3vw;
+	padding-left:0px;
 	padding-right: 0px;
 	/*padding-left:3.8vw;*/
 }
